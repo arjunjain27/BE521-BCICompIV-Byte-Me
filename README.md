@@ -7,5 +7,5 @@ lasso_weights.mat - lasso regression-based model we developed and trained to be 
 other .m files to support data processing
 
 quick_test contains:  
-\prefeat_predictions.m - a test script that locally loads ECoG test data and pre-extracted feature matrices and returns finger flexion prediction arrays  
-\other .m files to support data processing
+prefeat_predictions.m - a test script that locally loads ECoG test data and pre-extracted feature matrices and returns finger flexion prediction arrays  
+other .m files to support data processing
